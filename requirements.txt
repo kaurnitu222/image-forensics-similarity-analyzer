@@ -1,0 +1,6 @@
+  
+numpy>=1.26,<3
+Pillow>=10.0,<13
+streamlit>=1.39,<2
+torch>=2.5,<3
+transformers>=4.45,<5
